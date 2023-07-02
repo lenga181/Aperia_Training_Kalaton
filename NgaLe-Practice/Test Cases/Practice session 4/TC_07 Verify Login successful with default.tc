@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_07 Verify Login successful with default</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6996d49-33ee-4211-a9a3-ec2b32553b59</testCaseGuid>
+</TestCaseEntity>
